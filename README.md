@@ -3,11 +3,12 @@
 ## Tabla de Contenidos
 1. [Introducción](#introducción)
 2. [Descripción](#descripción)
-3. [Análisis de Datos](#análisis-de-datos)
+3. [Tecnologías Utilizadas](#tecnologías-utilizadas)
+4. [Análisis de Datos](#análisis-de-datos)
    - [ETL (Extract, Transform, Load)](#etl-extract-transform-load)
    - [EDA (Exploratory-Data-Analysis)](#eda-exploratory-data-analysis)
-4. [Conclusión](#conclusión)
-5. [Autores](#autores)
+5. [Conclusión](#conclusión)
+6. [Autores](#autores)
 
 ## Introducción
 Como data analyst de la empresa Telecom, se realizó un estudio exhaustivo sobre el acceso a internet en las diferentes provincias de Argentina. Debido al crecimiento constante de las comunidades, es esencial monitorear cómo evoluciona el acceso a los servicios de telecomunicaciones para implementar estrategias efectivas que no solo ayuden a aumentar los ingresos de la compañía, sino también a mejorar la cobertura en todo el país.
@@ -16,6 +17,13 @@ En este caso, la empresa Telecom requería un análisis de los diferentes factor
 
 ## Descripción
 Se recibieron diversos datasets relacionados con velocidad de internet, accesos, tecnologías, televisión, y datos de portabilidad. Estos datos fueron sometidos a un análisis exhaustivo que incluyó un proceso de ETL (Extract, Transform, Load) y un posterior EDA (Exploratory Data Analysis). Finalmente, se desarrolló un dashboard en Power BI para presentar los resultados.
+
+## Tecnologías Utilizadas
+- **Python**: Para el procesamiento de datos, ETL y análisis exploratorio.
+- **Pandas**: Manejo y análisis de datos estructurados.
+- **Matplotlib y Seaborn**: Creación de visualizaciones y gráficos.
+- **Power BI**: Desarrollo de dashboards interactivos para la presentación de resultados.
+- **Jupyter Notebook**: Para el desarrollo y ejecución de código en un entorno interactivo.
 
 ## Análisis de Datos
 
